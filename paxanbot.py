@@ -3,7 +3,6 @@ import random
 import datetime
 from pytz import timezone
 from datetime import datetime
-from random import Random
 
 bot = telebot.TeleBot('1207806133:AAHlgaNF38ZBGtRSNlklsHEF07urjtHUf1s')
 

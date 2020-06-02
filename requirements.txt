@@ -20,6 +20,7 @@ pylint==2.5.2
 pyTelegramBotAPI==3.7.1
 python-dateutil==1.5
 python-telegram-bot==12.7
+pytz==2020.1
 requests==2.23.0
 schedule==0.6.0
 six==1.15.0
